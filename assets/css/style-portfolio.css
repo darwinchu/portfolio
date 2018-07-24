@@ -28,13 +28,13 @@ footer {
 	z-index: -1;
 }
 
-.img-style {
+/*.img-style {
 	max-height: 250px;
 	min-height: 250px;
 	min-width: 100%;
 	max-width: 100%;
 	padding: 20px;
-}
+}*/
 
 .img-container > h6 {
 	text-align: center;
